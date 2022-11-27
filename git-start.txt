@@ -65,3 +65,8 @@ git commit -m "add eee.. at branch_test1"
 fffffffffffffffffffffffffffffffffff
 git add .
 git commit -m "fff eee.. at branch_test1"
+
+8.2 switch main
+git add .
+git commit -m "branch_test1 -> main"
+git switch main
