@@ -41,3 +41,8 @@ git commit -m "add aaa... at branch_test1"
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 git add .
 git commit -m "add bbb.. at branch_test1"
+
+7.3 add message
+ccccccccccccccccccccccccccccccccc
+git add .
+git commit -m "add ccc.. at branch_test1"
