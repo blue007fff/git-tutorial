@@ -12,3 +12,5 @@ git log --all --oneline
 
 3. fist push
 git push
+
+4. Added new file : git-test1.txt
