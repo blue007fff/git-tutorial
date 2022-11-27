@@ -82,3 +82,8 @@ git merge branch_test1
 8.4 resolve conflict and finish merge
 git add .
 git commit -m "git merge finished"
+
+9. complete tutorial
+git add .
+git commit -m "complete tutorial"
+git push
