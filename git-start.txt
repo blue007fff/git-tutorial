@@ -36,3 +36,8 @@ git commit -m "start branch test"
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 git add .
 git commit -m "add aaa... at branch_test1"
+
+7.2 add message
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+git add .
+git commit -m "add bbb.. at branch_test1"
