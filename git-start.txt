@@ -14,3 +14,6 @@ git log --all --oneline
 git push
 
 4. Added new file : git-test1.txt
+
+5. second push
+git push
