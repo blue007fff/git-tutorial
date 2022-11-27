@@ -24,3 +24,10 @@ git difftool -> vim editor
 git difftool commit-id1 commit-id2
 git add .
 git commit -m "add diff command"
+
+7. test branch
+git branch branch_test1
+git switch branch_test1
+git status
+git add .
+git commit -m "start branch test"
