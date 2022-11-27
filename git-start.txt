@@ -52,3 +52,7 @@ git add .
 git commit -m "add ccc.. at add git merge command"
 git switch main
 git merge branch_test1
+
+8 test branch more
+git add .
+git commit -m "start branch test more"
