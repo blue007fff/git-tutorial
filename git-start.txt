@@ -1,0 +1,11 @@
+1. setting
+git config --global user.email "blue007fff@gmail.com"
+git config --global user.name "blue007fff"
+
+git clone https://github.com/blue007fff/git-tutorial.git
+
+2. first commit
+git add git-start.txt
+git commint -m "fist commit"
+git status
+git log --all --oneline
