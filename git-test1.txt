@@ -1,0 +1,6 @@
+Add new file
+
+git add 1.txt 2.txt 3.txt ...
+git add git-test1.txt
+git add .
+git commit -m "add git-test1.txt"
