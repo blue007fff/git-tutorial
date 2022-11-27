@@ -17,3 +17,10 @@ git push
 
 5. second push
 git push
+
+6. diff command
+git diff
+git difftool -> vim editor
+git difftool commit-id1 commit-id2
+git add .
+git commit -m "add diff command"
