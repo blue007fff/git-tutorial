@@ -31,3 +31,8 @@ git switch branch_test1
 git status
 git add .
 git commit -m "start branch test"
+
+7.1 add message
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+git add .
+git commit -m "add aaa... at branch_test1"
