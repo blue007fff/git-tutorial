@@ -52,3 +52,12 @@ git add .
 git commit -m "add ccc.. at add git merge command"
 git switch main
 git merge branch_test1
+
+8.1 add message
+ddddddddddddddddddddddddddddddddddd
+git add .
+git commit -m "add ddd.. at branch_test1"
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+git add .
+git commit -m "add eee.. at branch_test1"
