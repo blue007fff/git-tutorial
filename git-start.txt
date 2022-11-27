@@ -53,6 +53,23 @@ git commit -m "add ccc.. at add git merge command"
 git switch main
 git merge branch_test1
 
+8.1 add message
+ddddddddddddddddddddddddddddddddddd
+git add .
+git commit -m "add ddd.. at branch_test1"
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+git add .
+git commit -m "add eee.. at branch_test1"
+
+fffffffffffffffffffffffffffffffffff
+git add .
+git commit -m "fff eee.. at branch_test1"
+
+8.2 switch main
+git add .
+git commit -m "branch_test1 -> main"
+git switch main
 8 test branch more
 git add .
 git commit -m "start branch test more"
@@ -61,3 +78,7 @@ git commit -m "start branch test more"
 git add .
 git commit -m "add ccc.. at add git merge command"
 git merge branch_test1
+
+8.4 resolve conflict and finish merge
+git add .
+git commit -m "git merge finished"
