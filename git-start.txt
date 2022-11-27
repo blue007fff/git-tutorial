@@ -46,3 +46,9 @@ git commit -m "add bbb.. at branch_test1"
 ccccccccccccccccccccccccccccccccc
 git add .
 git commit -m "add ccc.. at branch_test1"
+
+7.4 merge branch
+git add .
+git commit -m "add ccc.. at add git merge command"
+git switch main
+git merge branch_test1
