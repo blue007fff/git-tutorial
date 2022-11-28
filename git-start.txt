@@ -3,9 +3,13 @@ git config --global user.email "blue007fff@gmail.com"
 git config --global user.name "blue007fff"
 git config --list
 
+//git branch -M main
 git clone https://github.com/blue007fff/git-tutorial.git
-//git remote add origin git@github.com~~~~
-//git remote -v
+
+// 다른 방법
+git remote add origin https://github.com/blue007fff/git-tutorial.git
+git remote -v
+
 
 2. first commit
 git add git-start.txt
@@ -91,3 +95,8 @@ git commit -m "git merge finished"
 git add .
 git commit -m "complete tutorial"
 git push
+
+10. 뉴비를 위한 작업.
+- 뉴비가 작업한 내용을 main(master) 에 반영하지 않기 위해 브랜치 생성.
+git checkout -b newbe
+git push origin newbe
