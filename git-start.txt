@@ -1,8 +1,11 @@
 1. setting
 git config --global user.email "blue007fff@gmail.com"
 git config --global user.name "blue007fff"
+git config --list
 
 git clone https://github.com/blue007fff/git-tutorial.git
+//git remote add origin git@github.com~~~~
+//git remote -v
 
 2. first commit
 git add git-start.txt
@@ -12,6 +15,7 @@ git log --all --oneline
 
 3. fist push
 git push
+//git push origin main
 
 4. Added new file : git-test1.txt
 
