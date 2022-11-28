@@ -104,3 +104,4 @@ git push origin newbe
 뉴비 작업 진행!!!
 git add .
 git commit -m "뉴비 작업 진행!!!"
+git push origin newbe
