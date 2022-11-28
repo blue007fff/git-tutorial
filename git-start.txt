@@ -100,3 +100,7 @@ git push
 - 뉴비가 작업한 내용을 main(master) 에 반영하지 않기 위해 브랜치 생성.
 git checkout -b newbe
 git push origin newbe
+
+뉴비 작업 진행!!!
+git add .
+git commit -m "뉴비 작업 진행!!!"
